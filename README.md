@@ -2,8 +2,7 @@
 
 
 <style>
-  ul{background-colour: green;
-    }
+  {font-colour: green}
 </style>
 
 
