@@ -9,12 +9,15 @@
   <li>Get out of bed</li>
   <li>Eat breakfast</li>
   <li>Shower</li>
-</ul>
+  </ul>
+
+  <style>
+    body {background-colour: blue;}
+  </style>
   
 
-
-
-
+  
+    
 
 
 <h3>SUBHEADING</h3>
