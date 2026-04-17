@@ -12,7 +12,9 @@
   </ul>
 
   <style>
-    body {background-colour: blue;}
+    ul {
+      background-colour: blue;
+       }
   </style>
   
 
