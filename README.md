@@ -1,5 +1,6 @@
-<h1 align="center">felixodair.github.io</h1>
+<html>
 
+<h1 align="center">felixodair.github.io</h1>
 
 
 <p1>Day to day:</p1>
@@ -13,14 +14,6 @@
   </ul>
 </body>
 
-
-  <style>
-    body {background-color: blue;}
-  </style>
-  
-
-  
-    
 
 
 <h3>SUBHEADING</h3>
@@ -36,4 +29,4 @@
 
 <p>all by myself</p>
 
-
+</html>
