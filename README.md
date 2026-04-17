@@ -12,7 +12,7 @@
   </ul>
 
   <style>
-    ul {
+    <ul> {
       background-colour: blue;
        }
   </style>
