@@ -1,6 +1,6 @@
 <h1 align="center">felixodair.github.io</h1>
 
-<p style="colour:red"> 
+
 
 <p1>Day to day:</p1>
 
@@ -9,6 +9,7 @@
   <li>Get out of bed</li>
   <li>Eat breakfast</li>
   <li>Shower</li>
+    <text> colour=red> </text>
 </ul>
   
 
