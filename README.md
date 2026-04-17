@@ -1,13 +1,13 @@
+<h1 align="center">felixodair.github.io</h1>
+
+
 <style>
   ul{background-colour: green;
     }
 </style>
 
 
-<h1 align="center">felixodair.github.io</h1>
 <p1>Day to day:</p1>
-
-
 
   <ul>
   <li>Wake up</li>
@@ -16,6 +16,10 @@
   <li>Shower</li>
 </ul>
   
+
+
+
+
 
 
 <h3>SUBHEADING</h3>
