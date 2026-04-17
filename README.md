@@ -1,10 +1,6 @@
 <h1 align="center">felixodair.github.io</h1>
 
-
-<style>
-  {font-colour: green}
-</style>
-
+<p style="colour:red"> 
 
 <p1>Day to day:</p1>
 
