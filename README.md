@@ -2,7 +2,8 @@
 <p1>Day to day:</p1>
 
 <style>
-  ul{background-colour: green;}
+  ul{background-colour: green;
+    }
 </style>
 
   <ul>
