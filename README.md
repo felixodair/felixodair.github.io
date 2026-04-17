@@ -1,6 +1,8 @@
 <html>
 
-<h1 align="center">felixodair.github.io</h1>
+<h1 align="center">felixodair.github.io
+
+</h1>
 
 
 <p1>Day to day:</p1>
