@@ -7,3 +7,18 @@
   <li>Eat breakfast</li>
   <li>Shower</li>
 </ul>
+
+<h3>SUBHEADING</h3>
+
+<p1>Paragraph 1</p1>
+
+
+<p>Here, im learning to</p>
+
+<ol>Code HTML</ol>
+<ol>Code CSS</ol>
+<ol>Code python</ol>
+
+<p>all by myself</p>
+
+
