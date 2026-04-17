@@ -9,7 +9,7 @@
   <li>Get out of bed</li>
   <li>Eat breakfast</li>
   <li>Shower</li>
-    <text> colour=red> </text>
+    <text> colour=red>ERROR</text>
 </ul>
   
 
