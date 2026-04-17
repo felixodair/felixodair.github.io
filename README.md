@@ -2,17 +2,15 @@
 <p1>Day to day:</p1>
 
 <style>
-  p2 {background-colour: green;}
+  ul{background-colour: green;}
 </style>
 
-<p2>
   <ul>
   <li>Wake up</li>
   <li>Get out of bed</li>
   <li>Eat breakfast</li>
   <li>Shower</li>
 </ul>
-</p2>
   
 
 
