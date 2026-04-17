@@ -4,17 +4,18 @@
 
 <p1>Day to day:</p1>
 
+<body>
   <ul>
   <li>Wake up</li>
   <li>Get out of bed</li>
   <li>Eat breakfast</li>
   <li>Shower</li>
   </ul>
+</body>
+
 
   <style>
-    <ul> {
-      background-colour: blue;
-       }
+    body {background-color: blue;}
   </style>
   
 
