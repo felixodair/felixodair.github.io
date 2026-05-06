@@ -12,7 +12,23 @@
 <h1>Python in HTML Example</h1>
 
 <py-script>
-print("Hello, Python from HTML!")
+#Calculator
+operator = input("Enter operator: +, -, *, /: ")
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+
+if operator == "+":
+    result = num1 + num2
+    print(result)
+elif operator == "-":
+    result = num1 - num2
+    print(result)
+elif operator == "*":
+    result = num1 * num2
+    print(result)
+elif operator == "/":
+    result = num1 / num2
+    print(result) 
 </py-script>
 
 </body>
